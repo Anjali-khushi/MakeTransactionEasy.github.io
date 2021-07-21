@@ -14,6 +14,7 @@ Basic Banking System
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This website fulfills the above requirement with the following parameters ->
+
 List of coding used for different purpose:
 i)   Database - MySQL
 ii)  Back-end - PHP
@@ -30,6 +31,7 @@ Host used for this website is 000webhost and the whole code is available here.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Before hosting xampp server is used.
+
 We can open the site in our mobile phones, hence this code is staisfying the task-2 (Basic Bank App) requirements as well.  
 
 *********************************************************************************************************************************************************************************
