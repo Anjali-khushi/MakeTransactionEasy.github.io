@@ -20,12 +20,9 @@ Basic Banking System
 
 This website fulfills the above requirement with the following parameters ->
 
-List of coding used for different purpose:
-i)   Database - MySQL
-ii)  Back-end - PHP
-iii) Front-end - HTML, CSS, Bootstrap & Javascript
+List of coding used for different purpose: Database (MySQL), Back-end (PHP) and Front-end (HTML, CSS, Bootstrap & Javascript).
 
-i)DB is having two tables: users and transfer.
+In Database two tables are created: users and transfer.
 
 Flow is same as above mention.
 
